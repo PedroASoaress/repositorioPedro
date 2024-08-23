@@ -5,6 +5,6 @@ public class Nomes JanMar {
         System.out.println("Ianes Alencastro e Silva Filho");
         System.out.println("Breno");
         System.out.println("Pedro Augusto Soares");
-        System.out,println("Arruma esse negocio ai");
+        System.out.println("Arruma esse negocio ai");
     }
 }
